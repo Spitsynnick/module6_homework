@@ -1,1 +1,1 @@
-# module6_homework
+Homework on module 6: "Functions in JavaScript"
