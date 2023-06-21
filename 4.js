@@ -1,4 +1,5 @@
-function printNumbers(num1, num2) { // функция принимает два числа, и каждую секунду выводит в консоль, начиная от первого и заканчивая вторым
+// функция принимает два числа, и каждую секунду выводит в консоль, начиная от первого и заканчивая вторым
+function printNumbers(num1, num2) { 
     let currentNumber = num1;
 
     let intervalId = setInterval(function() {
